@@ -45,7 +45,7 @@ Exemplarisch voor data-gedreven innovatie anno 2023 is de lerende machine **–�
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending;  of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. 
 
 
-Een testversie van ChatGPT  is op 30 november 2022 online beschikbaar via [OpenAI](https://chat.openai.com/), om uit te proberen door het voeren van “tekstuele dialogen”. 
+Een testversie van ChatGPT  is sinds 30 november 2022 online beschikbaar via [OpenAI](https://chat.openai.com/), om uit te proberen door het voeren van “tekstuele dialogen”. 
 
 <!--
 <br />
@@ -55,15 +55,12 @@ Een open-source replica [––Open assistent––](https://github.com/LAION-AI
 > *"Open Assistant is een project bedoeld om iedereen toegang te geven tot een groot chatgebaseerd taalmodel. Op dezelfde manier als stable-diffusion de wereld hielp kunst en beelden op nieuwe manieren te maken, kan Open Assistant de wereld  helpen verbeteren door de taal zelf te verbeteren."*
 -->
 
-
-
-
-
-<br />
-
 ******
 
-<font size="6"> **Data Fabric**</font>
+<br/>
+
+
+<font size="20"> **Data Fabric**</font>
 
 <center>
 
