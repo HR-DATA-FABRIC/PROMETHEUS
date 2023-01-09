@@ -15,7 +15,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 >•  Informatie is een maat voor gereduceerde onzekerheid over beschikbare data. Bijvoorbeeld met behulp van een weermodel kan op basis van meteorologische data een voorspelling gedaan worden over het verloop van de temperatuur voor de komende week. Dus het weermodel structureert en presenteert "betekenisloze" data zoals temperatuur en luchtdruk op een voor mensen betekenisvolle wijze
 -->
 
-<font size="7"> **PROMETHEUS <br /> DATA SCIENCE LAB**</font>
+<font size="8"> **PROMETHEUS <br /> DATA SCIENCE LAB**</font>
 
 
 
@@ -45,7 +45,7 @@ Exemplarisch voor data-gedreven innovatie anno 2023 is de lerende machine **–�
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending;  of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. 
 
 
-Een testversie van ChatGPT  is op 30 november 2022 publiekelijk beschikbaar gesteld via de website van [OpenAI](https://chat.openai.com/), om uit te proberen door het voeren van “tekstuele dialogen”. 
+Een testversie van ChatGPT  is op 30 november 2022 online beschikbaar via [OpenAI](https://chat.openai.com/), om uit te proberen door het voeren van “tekstuele dialogen”. 
 
 
 
