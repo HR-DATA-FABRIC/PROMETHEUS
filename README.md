@@ -83,9 +83,8 @@ Een Data Fabric ––DF–– biedt laagdrempelige toegang tot Data Science too
 
 <br> 
 
-<p align="center">
-<img width=70% height=70% src="https://user-images.githubusercontent.com/684692/208652992-55099b81-20fb-4c97-83a9-f04deb65eef3.png" style="background-color: white;">
-
+<p align="center" style="background-color: white;">
+<img width=70% height=70% src="https://user-images.githubusercontent.com/684692/211403038-645c40b0-73e2-4bc1-96c4-4eb3bf6357d5.jpg" >
 
 
 Om een data fabric te creëren, werken  data scientists samen met data engineers; hierdoor wordt integratie mogelijk van bestaande IT-infrastructuur en -systemen, zoals bedrijfsapplicaties, analytische tools en security systemen.
