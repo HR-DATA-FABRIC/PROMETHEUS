@@ -47,9 +47,6 @@ Exemplarisch voor data-gedreven innovatie anno 2023 is de lerende machine **–�
 
 Een testversie van ChatGPT  is op 30 november 2022 online beschikbaar via [OpenAI](https://chat.openai.com/), om uit te proberen door het voeren van “tekstuele dialogen”. 
 
-
-
-
 <!--
 <br />
 
