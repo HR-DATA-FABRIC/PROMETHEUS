@@ -67,7 +67,7 @@ Een open-source replica [––Open assistent––](https://github.com/LAION-AI
 ```mermaid
 flowchart LR
 
-A([Een belangrijk einddoel van het Prometheus Data Science-lab is de totstandbrenging van een data fabric.])
+A([Doel het Prometheus Data Science-lab is de totstandbrenging van een data fabric.])
 ```
 
 </center>
