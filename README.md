@@ -33,7 +33,7 @@ AI (kunstmatige intelligentie) is een toegepaste wetenschap gericht op het autom
 -->
 
 
-Exemplarisch voor data-gedreven innovatie anno 2023 is de lerende machine **––ML––** genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel **––LLM––** dat gebruik maakt van natuurlijke taalverwerkende **––NLP––** AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
+Exemplarisch voor data-gedreven innovatie anno 2023 is de lerende machine **––ML––** genaamd [ChatGPT](https://chat.openai.com/). Een state-of-the-art, grootschalig taalmodel **––LLM––** dat gebruik maakt van natuurlijke taalverwerkenden **––NLP––** AI-technologie. Het is gevoed met meer dan 8 miljoen unieke dialogen.
 
 
 <img align="left" width="200" height="300" src="https://user-images.githubusercontent.com/684692/211400087-a93ef037-e191-4356-8fc2-4773e247ef9c.jpg">
@@ -132,11 +132,11 @@ Er zijn drie verschillende toepassingsgerichte Data Science thema's waarop stude
 | ------------- | ------------- | ---------- |
 *––ML––* <br> Machine Learning  | Ontwerpen van FAIR data products die het benutten van AI-modellen toegankelijk maken voor niet-technisch onderlegde eindgebruikers.  |  [Matlab, Regression Learner applicatie](https://github.com/robvdw/MATLAB_REGRESSION_LEARNER). 
  *––NLP––* <br> Natuurlijke Taalverwerking | Ontwerpen van FAIR data products die grootschalige taalmodellen *––zoals BERT, BLOOM en ChatGPT––* kunnen benutten voor de analyse van vrije-teksten. |  ["text mining & wrangling" van klinische vrije tekst](https://github.com/robvdw/Decision-Support-Systems-In-Allied-Healthcare) afkomstig van zorgverleners. 
-*––DF––* <br> Data Fabric  | Benutten van Data Science tools voor het creeren van een Data Fabric. | [Anaconda in combinatie met Jupyter Notebooks](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks).
+*––DF––* <br> Data Fabric  | Benutten van Data Science tools voor het creëren van een Data Fabric. | [Anaconda in combinatie met Jupyter Notebooks](https://github.com/robvdw/Creating-AI-Data-Products-Using-Jupyter-Notebooks).
 
 
 
-Wij nodigen studenten uit om ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists, die na het werk ook nog (online) sociale Bescik jij over:activiteiten delen. Dit alles binnen het Programma voor AI & Ethiek. 
+Wij nodigen studenten uit om ervaring opdoen in een groep van enthousiaste, gedreven Data Scientists van het HR-brede Programma voor AI & Ethiek. 
 
 Beschik jij over:
 | | |
