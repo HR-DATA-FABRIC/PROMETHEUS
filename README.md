@@ -82,7 +82,7 @@ Een Data Fabric ––DF–– biedt laagdrempelige toegang tot Data Science too
 
 
 Om een data fabric te creëren, werken  data scientists samen met data engineers; hierdoor wordt integratie mogelijk van bestaande IT-infrastructuur en -systemen, zoals bedrijfsapplicaties, analytische tools en security systemen.
-Het kan worden ingezet om voorspellingen of beslissingen te maken op basis van researchdata, voor het hele scala aan toepassingsdomeinen dat de hogeschool Rotterdam bestrijkt zoals Coding, Biotech, Education, Fintech, Gaming, Healthcare, Logistics, Predictive Maintenance, Robotics, Shipping.
+Het kan worden ingezet om voorspellingen of beslissingen te maken op basis van researchdata, voor het hele scala aan toepassingsdomeinen dat de hogeschool Rotterdam bestrijkt zoals Coding, Biotech, Education, Fintech, Gaming, Healthcare, InfraTech, Logistics, Predictive Maintenance, Robotics, Shipping.
 <br/>
 
 ******
