@@ -45,7 +45,7 @@ Exemplarisch voor data-gedreven innovatie anno 2023 is de lerende machine **–�
 >Stel je een computer voor die jouw zinnen kan afmaken met een betere zinswending;  of een gesprek met je kan voeren over een thema dat jouw interesseert; of een probleem direct kan oplossen door honderden regels computercode te schrijven binnen enkele seconden. Een dergelijke computer vormt een schakel in een lange keten van werktuigen zoals het weefgetouw, de boekdrukpers en de stoommachine die de industriële revolutie opgang brachten. Tegelijkertijd is het onderdeel van een nieuwe klasse aan _lerende machines_, omdat het de symbolen in taal omzet & computercode schrijft op manieren die creatief lijken. Een beetje zoals een mens dat zou doen. 
 
 
-Een testversie van ChatGPT  is sinds 30 november 2022 online beschikbaar via [OpenAI](https://chat.openai.com/), om uit te proberen door het voeren van “tekstuele dialogen”. 
+Om duiding te geven aan de hype rond de generatieve-AI ChatGPT, is een [*Nederlandstalige  "How-To?" repository*](https://github.com/HR-ChatGPT/ChatGPT-UITGELEGD) opgesteld met [hints en tips](#faqs) voor het verantwoord & effectief gebruik ervan in het hoger onderwijs. 
 
 <!--
 <br />
